@@ -1,0 +1,10 @@
+alias bbb="cd /home/laiduy98/Documents/Projects/BBB-Recomendation-system/recommendation"
+alias reco="conda activate recommendataion_bbb"
+alias recob="cd /home/laiduy98/Documents/Projects/BBB-Recomendation-system/recommendation;
+		conda activate recommendataion_bbb;
+		jupyter lab"
+
+alias upgrade="sudo apt update && sudo apt upgrade"
+
+alias ranger='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
+alias info="neofetch"
