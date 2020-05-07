@@ -1,4 +1,4 @@
-# dotfiles and Arch Linux install instruction from scratch
+# Dotfiles and Arch Linux install instruction from scratch
 
 ![Screenshot](/Docs/screenshot.png)
 
@@ -138,7 +138,7 @@ cd build
 make
 sudo make install
 ```
-*Extra*: 
+**Extra**: 
 ```
 sudo apt-get install wget ranger mediainfo highlight tmux calcurse  newsbeuter moc qutebrowser imagemagick transmission-cli atool xcompmgr blender pinta gimp  markdown mupdf evince audacity vim-latexsuite rsync syncthing cups screenfetch scrot unzip unrar biber ntfs-3g deepin-terminal zip irssi unzip
 ```
@@ -163,8 +163,15 @@ git clone https://github.com/jaagr/polybar.git
 
 cd polybar && ./build.sh
 ```
+## Apply dotfiles
+Clone this repo and put things in place
 
 ## Something to mention
 
-* Choose second class with xprop
-* xinput list to list devices, xinput list-props id to list properties, xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Accel Speed" 0.5
+* Choose class with ```xprop``` to assign workspace
+* Working with xinput examples
+```
+xinput list
+xinput list prop <id>
+xinput list-props id to list properties, xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Accel Speed" 0.5
+```
