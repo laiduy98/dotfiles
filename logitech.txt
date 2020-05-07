@@ -1,0 +1,26 @@
+Device 'Logitech G103 Prodigy Gaming Mouse':
+	Device Enabled (171):	1
+	Coordinate Transformation Matrix (173):	1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000
+	libinput Natural Scrolling Enabled (306):	0
+	libinput Natural Scrolling Enabled Default (307):	0
+	libinput Scroll Methods Available (308):	0, 0, 1
+	libinput Scroll Method Enabled (309):	0, 0, 0
+	libinput Scroll Method Enabled Default (310):	0, 0, 0
+	libinput Button Scrolling Button (311):	2
+	libinput Button Scrolling Button Default (312):	2
+	libinput Middle Emulation Enabled (313):	0
+	libinput Middle Emulation Enabled Default (314):	0
+	libinput Accel Speed (315):	-0.595588
+	libinput Accel Speed Default (316):	0.000000
+	libinput Accel Profiles Available (317):	1, 1
+	libinput Accel Profile Enabled (318):	1, 0
+	libinput Accel Profile Enabled Default (319):	1, 0
+	libinput Left Handed Enabled (320):	0
+	libinput Left Handed Enabled Default (321):	0
+	libinput Send Events Modes Available (291):	1, 0
+	libinput Send Events Mode Enabled (292):	0, 0
+	libinput Send Events Mode Enabled Default (293):	0, 0
+	Device Node (294):	"/dev/input/event7"
+	Device Product ID (295):	1133, 49284
+	libinput Drag Lock Buttons (322):	<no items>
+	libinput Horizontal Scroll Enabled (323):	1
