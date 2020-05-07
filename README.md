@@ -121,7 +121,9 @@ sudo chmod 4755 /usr/bin/light
 
 ### Ubuntu
 With ubuntu, you have to install i3-gaps, i3lock and polybar from source
+
 * i3-gaps
+
 [https://github.com/pasiegel/i3-gaps-install-ubuntu]
 ```
 sudo apt install libxcb1-dev libxcb-keysyms1-dev libpango1.0-dev libxcb-util0-dev libxcb-icccm4-dev libyajl-dev libstartup-notification0-dev libxcb-randr0-dev libev-dev libxcb-cursor-dev libxcb-xinerama0-dev libxcb-xkb-dev libxkbcommon-dev libxkbcommon-x11-dev autoconf xutils-dev libtool libxcb-shape0-dev
@@ -143,7 +145,9 @@ sudo make install
 sudo apt-get install wget ranger mediainfo highlight tmux calcurse  newsbeuter moc qutebrowser imagemagick transmission-cli atool xcompmgr blender pinta gimp  markdown mupdf evince audacity vim-latexsuite rsync syncthing cups screenfetch scrot unzip unrar biber ntfs-3g deepin-terminal zip irssi unzip
 ```
 * i3lock
+
 [https://github.com/Lixxia/i3lock]
+
 Make sure you have the following libraries installed in addition to the packages in the requirements section below.
 
 libxkbcommon-dev libxkbcommon-x11-dev libpam0g-devl  libjsoncpp-dev
