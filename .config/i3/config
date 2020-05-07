@@ -191,7 +191,7 @@ bindsym $mod+r mode "resize"
 #}
 
 # Set backgound image
-exec --no-startup-id feh --bg-scale /home/laiduy98/Pictures/3.jpg
+exec --no-startup-id feh --bg-scale /home/laiduy98/.config/i3/3.jpg
 
 # On start app
 exec --no-startup-id imwheel -k -b "4 5"
@@ -269,7 +269,7 @@ bindsym Mod1+Control+r exec imwheel -k -b "4 5"
 
 # Lockscreen 
 # bindsym $mod+l exec i3lock -i ~/Pictures/4.png
-bindsym Mod1+Shift+l exec i3lock -i ~/Pictures/4.png -c '#000000' -o '#191d0f' -w '#572020' -l '#ffffff' -e
+bindsym Mod1+Shift+l exec i3lock -i ~/.config/i3/4.png -c '#000000' -o '#191d0f' -w '#572020' -l '#ffffff' -e
 
 # Touchpad and mouse speed
 exec_always --no-startup-id xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Accel Speed" 0.5
