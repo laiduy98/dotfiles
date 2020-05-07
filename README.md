@@ -1,8 +1,8 @@
-# Dotfiles and Arch Linux install instruction from scratch
+# Dotfiles and Arch Linux installation instruction from scratch
 
 ![Screenshot](/Docs/screenshot.png)
 
-## Arch Linux installtion instruction
+## Arch Linux installation instruction
 
 ### Install Arch
 * Check disk and wifi
