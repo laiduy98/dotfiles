@@ -54,7 +54,8 @@ URxvt.scrollBar_right: false
 URxvt.urgentOnBell: true
 URxvt.depth: 24
 URxvt.iso14755: false
-
+URxvt.transparent: true
+URxvt.shading:20
 
 !! Common Keybinds for Navigations
 URxvt.keysym.Shift-Up: command:\033]720;1\007
@@ -80,4 +81,5 @@ URxvt.urlButton: 1
 URxvt.keysym.Shift-Control-V: eval:paste_clipboard
 URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
 
-!! Xft.dpi:120
+
+ Xft.dpi:120
