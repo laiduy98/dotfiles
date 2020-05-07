@@ -1,0 +1,4 @@
+/usr/bin/gnome-keyring-daemon --start --components=ssh
+/usr/bin/skypeforlinux
+sh -c 'if ! [ -e "/usr/bin/ibus-daemon" ] && [ "x$XDG_SESSION_TYPE" = "xwayland" ] ; then exec env IM_CONFIG_CHECK_ENV=1 im-launch true; fi'
+

@@ -147,6 +147,7 @@ assign [class="Slack"] $ws7
 for_window [class="Spotify"] move to workspace $ws7
 assign [class="jetbrains-datagrip"] $ws4
 assign [class="jetbrains-pycharm"] $ws3
+assign [class="Code"] $ws5
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -196,6 +197,8 @@ exec --no-startup-id feh --bg-scale /home/laiduy98/Pictures/3.jpg
 exec --no-startup-id imwheel -k -b "4 5"
 exec --no-startup-id /usr/bin/ibus-daemon -d
 exec --no-startup-id blueman-applet
+exec --no-startup-id /usr/bin/skypeforlinux
+exec --no-startup-id /usr/bin/gnome-keyring-daemon --start --components=ssh 
 
 # Set screen layout
 # exec --no-startup-id ~/.screenlayout/autoscreen.sh
@@ -257,8 +260,18 @@ mode "move" {
 
 
 # Polybar
-exec_always --no-startup-id ~/.config/polybar/polybar.sh &
+exec_always --no-startup-id ~/.config/polybar/launch.sh
 
 # Custom shortcut
 bindsym Mod1+Control+e exec pkill imwheel
 bindsym Mod1+Control+r exec imwheel -k -b "4 5"
+
+
+# Lockscreen 
+# bindsym $mod+l exec i3lock -i ~/Pictures/4.png
+bindsym Mod1+Shift+l exec i3lock -i ~/Pictures/4.png -c '#000000' -o '#191d0f' -w '#572020' -l '#ffffff' -e
+
+# Touchpad and mouse speed
+exec_always --no-startup-id xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Accel Speed" 0.5
+exec_always --no-startup-id xinput set-prop "Logitech G103 Prodigy Gaming Mouse" "libinput Accel Speed" -0.4
+
