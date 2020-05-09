@@ -1,6 +1,6 @@
 # Dotfiles and Arch Linux installation instruction from scratch
 
-![Screenshot](/Docs/screenshot.png)
+![Screenshot](/docs/screenshot.png)
 
 ## Arch Linux installation instruction
 
