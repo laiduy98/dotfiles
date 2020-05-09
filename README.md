@@ -122,6 +122,8 @@ sudo chmod 4755 /usr/bin/light
 ### Ubuntu
 With ubuntu, you have to install i3-gaps, i3lock and polybar from source
 
+* pavucontrol
+
 * i3-gaps
 
 [https://github.com/pasiegel/i3-gaps-install-ubuntu]
