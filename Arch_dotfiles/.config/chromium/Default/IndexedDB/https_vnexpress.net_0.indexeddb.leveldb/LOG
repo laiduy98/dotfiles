@@ -1,5 +1,0 @@
-2020/05/10-04:22:29.557 7f01 Reusing MANIFEST /home/laiduy98/.config/chromium/Default/IndexedDB/https_vnexpress.net_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/10-04:23:41.133 81b2 Level-0 table #5: started
-2020/05/10-04:23:41.140 81b2 Level-0 table #5: 2086 bytes OK
-2020/05/10-04:23:41.143 81b2 Delete type=0 #3
-2020/05/10-04:23:41.143 81b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
