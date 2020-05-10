@@ -30,7 +30,7 @@ arch-chroot /mnt /bin/bash
 nano /etc/locale.gen # choose us_utf8
 locale-gen
 echo "LANG=en_US.UTF-8" > /etc/locale.conf
-echo "LANG=en_US.UTF-8" > /etc/locale.conf
+ln -sf /usr/share/zoneinfo/Asia/Ho_Chi_Minh /etc/localtime
 hwclock --systohc --utc
 date
 ```
