@@ -1,0 +1,35 @@
+sudo pacman -S git neofetch thunar imwheel
+lxappearance ibus network-manager-applet ibus-unikey
+blueman bluez bluez-utils chromium code
+lightdm-gtk-greeter-settings scrot imagemagick
+ranger pavucontrol ttf-fira-sans pop-gtk-theme
+pop-icon-theme gvfs gnome-screenshot compton
+gnome-keyring libsecret xfce4-power-manager
+thunar-volman evince eog gnome-disk-utility
+pulseaudio-bluetooth ntp
+
+
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+
+yay -S polybar skype
+
+
+systemctl enable bluetooth.service
+
+
+
+git clone https://github.com/powerline/fonts.git --depth=1
+cd fonts/
+ls
+./install.sh 
+cd ..
+rm -rf fonts/
+
+ibus-daemon -drx --panel /usr/lib/ibus/ibus-ui-gtk3
+
+
+sudo cp 3.jpg /usr/share/pixmaps/
+
+systemctl enable ntpdate.service

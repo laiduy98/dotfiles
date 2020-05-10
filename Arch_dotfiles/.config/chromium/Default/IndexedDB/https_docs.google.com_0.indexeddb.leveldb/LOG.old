@@ -1,0 +1,8 @@
+2020/05/10-21:49:27.395 1369 Reusing MANIFEST /home/laiduy98/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/10-21:49:27.395 1369 Recovering log #137
+2020/05/10-21:49:27.395 1369 Reusing old log /home/laiduy98/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000137.log 
+2020/05/10-21:49:44.701 1319 Level-0 table #141: started
+2020/05/10-21:49:44.701 1319 Level-0 table #141: 0 bytes OK
+2020/05/10-21:49:44.708 1319 Delete type=0 #137
+2020/05/10-21:49:44.708 1319 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/10-21:49:44.709 1319 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

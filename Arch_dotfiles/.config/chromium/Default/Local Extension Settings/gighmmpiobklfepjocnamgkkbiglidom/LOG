@@ -1,0 +1,49 @@
+2020/05/10-21:42:52.311 ca8 Reusing MANIFEST /home/laiduy98/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/05/10-21:42:52.311 ca8 Recovering log #115
+2020/05/10-21:42:52.312 ca8 Reusing old log /home/laiduy98/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000115.log 
+2020/05/10-21:43:54.465 1325 Level-0 table #119: started
+2020/05/10-21:43:54.532 1325 Level-0 table #119: 5183885 bytes OK
+2020/05/10-21:43:54.535 1325 Delete type=0 #115
+2020/05/10-21:43:55.833 1325 Level-0 table #121: started
+2020/05/10-21:43:55.901 1325 Level-0 table #121: 5183730 bytes OK
+2020/05/10-21:43:55.904 1325 Delete type=0 #118
+2020/05/10-21:43:58.272 1325 Level-0 table #123: started
+2020/05/10-21:43:58.344 1325 Level-0 table #123: 5183712 bytes OK
+2020/05/10-21:43:58.355 1325 Delete type=0 #120
+2020/05/10-21:43:58.356 1325 Compacting 4@0 + 2@1 files
+2020/05/10-21:43:58.510 1325 Generated table #124@0: 1 keys, 5183712 bytes
+2020/05/10-21:43:58.513 1325 Generated table #125@0: 4 keys, 348 bytes
+2020/05/10-21:43:58.513 1325 Compacted 4@0 + 2@1 files => 5184060 bytes
+2020/05/10-21:43:58.516 1325 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/10-21:43:58.516 1325 Delete type=2 #114
+2020/05/10-21:43:58.516 1325 Delete type=2 #119
+2020/05/10-21:43:58.516 1325 Delete type=2 #121
+2020/05/10-21:43:58.516 1325 Delete type=2 #123
+2020/05/10-21:43:58.516 1325 Delete type=2 #113
+2020/05/10-21:43:58.516 1325 Delete type=2 #116
+2020/05/10-21:44:00.351 1325 Level-0 table #127: started
+2020/05/10-21:44:00.416 1325 Level-0 table #127: 5183890 bytes OK
+2020/05/10-21:44:00.419 1325 Delete type=0 #122
+2020/05/10-21:44:05.191 1325 Level-0 table #129: started
+2020/05/10-21:44:05.260 1325 Level-0 table #129: 5183698 bytes OK
+2020/05/10-21:44:05.262 1325 Delete type=0 #126
+2020/05/10-21:44:07.299 1325 Level-0 table #131: started
+2020/05/10-21:44:07.366 1325 Level-0 table #131: 5183917 bytes OK
+2020/05/10-21:44:07.369 1325 Delete type=0 #128
+2020/05/10-21:46:06.641 1325 Level-0 table #133: started
+2020/05/10-21:46:06.711 1325 Level-0 table #133: 5183725 bytes OK
+2020/05/10-21:46:06.714 1325 Delete type=0 #130
+2020/05/10-21:46:06.715 1325 Compacting 4@0 + 2@1 files
+2020/05/10-21:46:06.858 1325 Generated table #134@0: 1 keys, 5183725 bytes
+2020/05/10-21:46:06.862 1325 Generated table #135@0: 4 keys, 349 bytes
+2020/05/10-21:46:06.862 1325 Compacted 4@0 + 2@1 files => 5184074 bytes
+2020/05/10-21:46:06.864 1325 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/10-21:46:06.864 1325 Delete type=2 #129
+2020/05/10-21:46:06.864 1325 Delete type=2 #133
+2020/05/10-21:46:06.864 1325 Delete type=2 #124
+2020/05/10-21:46:06.864 1325 Delete type=2 #131
+2020/05/10-21:46:06.864 1325 Delete type=2 #125
+2020/05/10-21:46:06.864 1325 Delete type=2 #127
+2020/05/10-21:46:08.742 1325 Level-0 table #137: started
+2020/05/10-21:46:08.807 1325 Level-0 table #137: 5183714 bytes OK
+2020/05/10-21:46:08.810 1325 Delete type=0 #132

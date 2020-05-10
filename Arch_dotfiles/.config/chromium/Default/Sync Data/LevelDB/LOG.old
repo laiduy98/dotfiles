@@ -1,0 +1,6 @@
+2020/04/24-15:32:26.321 395 Reusing MANIFEST /home/laiduy98/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/04/24-15:32:26.321 395 Recovering log #19
+2020/04/24-15:32:26.324 395 Reusing old log /home/laiduy98/.config/chromium/Default/Sync Data/LevelDB/000019.log 
+2020/04/24-15:32:54.050 65b Level-0 table #24: started
+2020/04/24-15:32:54.060 65b Level-0 table #24: 97880 bytes OK
+2020/04/24-15:32:54.073 65b Delete type=0 #19

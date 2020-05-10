@@ -1,0 +1,15 @@
+2020/05/10-06:29:21.705 175c Reusing MANIFEST /home/laiduy98/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/10-06:29:21.705 175c Recovering log #27
+2020/05/10-06:29:21.705 175c Reusing old log /home/laiduy98/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000027.log 
+2020/05/10-06:29:59.500 6f2 Level-0 table #32: started
+2020/05/10-06:29:59.505 6f2 Level-0 table #32: 1258 bytes OK
+2020/05/10-06:29:59.508 6f2 Delete type=0 #27
+2020/05/10-06:29:59.508 6f2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/10-06:29:59.508 6f2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 133 : 1
+2020/05/10-06:29:59.508 6f2 Compacting 1@1 + 1@2 files
+2020/05/10-06:29:59.511 6f2 Generated table #33@1: 19 keys, 1236 bytes
+2020/05/10-06:29:59.511 6f2 Compacted 1@1 + 1@2 files => 1236 bytes
+2020/05/10-06:29:59.514 6f2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/10-06:29:59.514 6f2 Delete type=2 #29
+2020/05/10-06:29:59.514 6f2 Delete type=2 #32
+2020/05/10-06:29:59.514 6f2 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 133 : 1 .. (end); will stop at (end)

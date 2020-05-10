@@ -1,0 +1,7 @@
+2020/04/24-15:32:37.484 395 Reusing MANIFEST /home/laiduy98/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/24-15:32:37.484 395 Recovering log #3
+2020/04/24-15:32:37.485 395 Reusing old log /home/laiduy98/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2020/04/24-15:33:10.286 664 Level-0 table #5: started
+2020/04/24-15:33:10.292 664 Level-0 table #5: 8315 bytes OK
+2020/04/24-15:33:10.296 664 Delete type=0 #3
+2020/04/24-15:33:10.296 664 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
