@@ -195,7 +195,7 @@ exec --no-startup-id feh --bg-scale /home/laiduy98/.config/i3/3.jpg
 
 # On start app
 exec --no-startup-id imwheel -k -b "4 5"
-exec --no-startup-id /usr/bin/ibus-daemon -d
+exec --no-startup-id ibus-daemon -drx --panel /usr/lib/ibus/ibus-ui-gtk3
 exec --no-startup-id blueman-applet
 exec --no-startup-id /usr/bin/skypeforlinux
 exec --no-startup-id /usr/bin/gnome-keyring-daemon --start --components=ssh 
