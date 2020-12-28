@@ -119,6 +119,12 @@ sudo chmod 4755 /usr/bin/light
 * Change mouse cursor theme
 [https://wiki.archlinux.org/index.php/Cursor_themes]
 
+```
+sudo pacman -Syu
+sudo pacman -S man i3-gaps neofetch git nvidia-settings rofi arandr feh light imwheel ibus compton gnome-keyring grub-customizer pavucontrol ranger ntfs-3g lxappearance arc-gtk-theme arc-icon-theme okular
+yay-S optimus-manager polybar ibus-bamboo skype spotify
+```
+
 ### Ubuntu
 With ubuntu, you have to install i3-gaps, i3lock and polybar from source
 
