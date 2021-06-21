@@ -1,0 +1,21 @@
+# Alias upgrade command
+#alias upgrade="sudo apt update && sudo apt upgrade"
+alias upgrade="sudo pacman -Syu"
+
+# Quit ranger with current directory
+alias ranger='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
+
+# Fix clear conflict with conda
+alias clear="/bin/clear"
+
+# Alias vim and vi with nvim
+alias vim=nvim
+alias vi=nvim
+
+# Custom alias for work goes here
+alias bbb="cd /home/laiduy98/Documents/Projects/BBB-Recomendation-system/bbb-recommendation"
+alias reco="conda activate recommendataion_bbb"
+alias recob="cd /home/laiduy98/Documents/Projects/BBB-Recomendation-system/bbb-recommendation;
+		conda activate recommendataion_bbb;
+		jupyter lab"
+
