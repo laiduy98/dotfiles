@@ -156,6 +156,7 @@ assign [class="Code"] $ws3
 assign [class="firefox"] $ws2
 assign [class="code-oss"] $ws3
 assign [class="Chromium"] $ws2
+assign [class="Rambox"] $ws6
 
 
 # reload the configuration file
@@ -297,3 +298,7 @@ exec_always --no-startup-id xinput set-prop "Logitech G102 Prodigy Gaming Mouse"
 # Power management
 exec_always --no-startup-id xfce4-power-manager
 exec_always --no-startup-id compton
+
+
+# Notification center
+exec --no-startup-id dunst
